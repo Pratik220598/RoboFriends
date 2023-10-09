@@ -4,7 +4,7 @@ import SearchBox from '../components/SearchBox';
 import './App.css';
 import Scroll from '../components/Scroll';
 import ErrorBoundary from '../components/ErrorBoundary';
-import { Provider } from 'react-redux';
+
 class App extends Component {
     constructor() {
         super()
